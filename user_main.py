@@ -502,7 +502,7 @@ class GeckosHUB(QMainWindow):
     def create_header(self, parent_layout):
         """Header erstellen"""
         header_frame = QFrame()
-        header_frame.setFixedHeight(80)
+        header_frame.setFixedHeight(120)
         header_frame.setStyleSheet("""
             QFrame {
                 background-color: rgb(25, 25, 25);
@@ -510,62 +510,72 @@ class GeckosHUB(QMainWindow):
                 border-radius: 10px;
             }
         """)
-        
+
         layout = QHBoxLayout(header_frame)
-        layout.setContentsMargins(25, 15, 25, 15)
-        
-        # Title
+        layout.setContentsMargins(25, 20, 25, 20)
+
+        # Title Section
         title_layout = QVBoxLayout()
+        title_layout.setSpacing(5)
+
         title = QLabel("🦎 GECKOSHUB")
-        title.setFont(QFont("Segoe UI", 18, QFont.Weight.Bold))
+        title.setFont(QFont("Segoe UI", 22, QFont.Weight.Bold))
         title.setStyleSheet("color: rgb(34, 197, 94);")
-        
+
         subtitle = QLabel("Gaming Tools & Bots Launcher")
-        subtitle.setFont(QFont("Segoe UI", 10))
+        subtitle.setFont(QFont("Segoe UI", 12))
         subtitle.setStyleSheet("color: rgb(156, 163, 175);")
-        
+
         title_layout.addWidget(title)
         title_layout.addWidget(subtitle)
-        
-        # Version & Update info
+        title_layout.addStretch()
+
+        # Version & Update Section
         version_layout = QVBoxLayout()
         version_layout.setAlignment(Qt.AlignmentFlag.AlignRight)
-        
+        version_layout.setSpacing(8)
+
         self.version_label = QLabel("Version: Loading...")
+        self.version_label.setFont(QFont("Segoe UI", 11))
         self.version_label.setStyleSheet("color: rgb(156, 163, 175);")
         self.version_label.setAlignment(Qt.AlignmentFlag.AlignRight)
-        
+        self.version_label.setMinimumWidth(250)   # Mehr Platz!
+
         self.update_status_label = QLabel("")
+        self.update_status_label.setFont(QFont("Segoe UI", 10))
         self.update_status_label.setStyleSheet("color: rgb(34, 197, 94);")
         self.update_status_label.setAlignment(Qt.AlignmentFlag.AlignRight)
-        
-        # Manual update button
+        self.update_status_label.setMinimumWidth(250)
+
         self.manual_update_btn = QPushButton("🔄 Check Updates")
-        self.manual_update_btn.setMaximumHeight(30)
+        self.manual_update_btn.setFixedHeight(35)
+        self.manual_update_btn.setMinimumWidth(160)  # Mehr Breite
         self.manual_update_btn.setStyleSheet("""
             QPushButton {
                 background-color: rgb(59, 130, 246);
                 color: white;
                 border: none;
-                border-radius: 6px;
-                padding: 5px 15px;
-                font-size: 10px;
+                border-radius: 8px;
+                padding: 8px 15px;
+                font-size: 11px;
+                font-weight: bold;
             }
             QPushButton:hover {
                 background-color: rgb(37, 99, 235);
             }
         """)
         self.manual_update_btn.clicked.connect(self.manual_check_updates)
-        
+
         version_layout.addWidget(self.version_label)
         version_layout.addWidget(self.update_status_label)
         version_layout.addWidget(self.manual_update_btn)
-        
-        layout.addLayout(title_layout)
-        layout.addStretch()
-        layout.addLayout(version_layout)
-        
+
+        layout.addLayout(title_layout, 3)
+        layout.addStretch(1)
+        layout.addLayout(version_layout, 2)
+
         parent_layout.addWidget(header_frame)
+
         
     def setup_tabs(self):
         """Tabs einrichten"""
