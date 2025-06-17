@@ -1,36 +1,5 @@
 {
-    "tabs": [
-        {
-            "name": "Roblox",
-            "icon": "🎮",
-            "description": "Für Roblox",
-            "requires_license": false,
-            "programs": [
-                {
-                    "name": "Roblox Auto Piano",
-                    "description": "dasdad",
-                    "type": "file",
-                    "path": "C:/Users/niko3/Desktop/Aimmy-CUDA-Arduino-main/Aimmy2/bin/x64/Release/net8.0-windows/Discord.exe",
-                    "requires_license": true
-                }
-            ]
-        },
-        {
-            "name": "Rocketschommasdad",
-            "icon": "🎮",
-            "description": "asdasdad",
-            "requires_license": false,
-            "programs": [
-                {
-                    "name": "adsasdd",
-                    "description": "adsasdad",
-                    "type": "file",
-                    "path": "C:/Users/niko3/Desktop/Aimmy-CUDA-Arduino-main/Aimmy2/bin/x64/Release/net8.0-windows/Discord.exe",
-                    "requires_license": false
-                }
-            ]
-        }
-    ],
-    "last_updated": "2025-06-17T10:58:33.184599",
+    "tabs": [],
+    "last_updated": "2025-06-17T11:02:36.948565",
     "version": "1.0.0"
 }
