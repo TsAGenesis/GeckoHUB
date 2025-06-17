@@ -1,5 +1,13 @@
 {
-    "tabs": [],
-    "last_updated": "2025-06-17T11:02:36.948565",
+    "tabs": [
+        {
+            "name": "Roblox",
+            "icon": "🎮",
+            "description": "asdasd",
+            "requires_license": true,
+            "programs": []
+        }
+    ],
+    "last_updated": "2025-06-17T11:31:15.048400",
     "version": "1.0.0"
 }
