@@ -1,11 +1,10 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-23T16:09:38.391246",
+  "last_updated": "2025-06-23T16:18:18.858185",
   "tabs": [
     "Roblox",
     "FantasyLifeI",
-    "Rocket League",
-    "FAIOOOOO"
+    "Rocket League"
   ],
   "programs_by_tab": {
     "Roblox": [],
@@ -23,26 +22,12 @@
         "file_size": "29",
         "version": "0.1"
       }
-    ],
-    "FAIOOOOO": [
-      {
-        "name": "FAIOOOOOO",
-        "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/GeckoUserGui.exe",
-        "tab": "FAIOOOOO",
-        "type": "free",
-        "description": "FAIOOO DER HUAN",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-23T16:09:34.268294",
-        "file_size": "43.7 MB",
-        "version": "0.1"
-      }
     ]
   },
   "statistics": {
-    "total_programs": 2,
+    "total_programs": 1,
     "paid_programs": 0,
-    "free_programs": 2,
-    "enabled_programs": 2
+    "free_programs": 1,
+    "enabled_programs": 1
   }
 }
