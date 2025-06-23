@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-23T14:42:49.693810",
+  "last_updated": "2025-06-23T14:48:21.462740",
   "tabs": [
     "Games",
     "Roblox",
@@ -8,15 +8,28 @@
     "Nikotest"
   ],
   "programs_by_tab": {
-    "Games": [],
+    "Games": [
+      {
+        "name": "Test",
+        "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/Geckos_Fantasy_Life_Save_Manager.exe",
+        "tab": "Games",
+        "type": "paid",
+        "description": "test",
+        "icon": "",
+        "enabled": true,
+        "created": "2025-06-23T14:48:17.849495",
+        "file_size": "Unknown",
+        "version": "1.0"
+      }
+    ],
     "Roblox": [],
     "FantasyLifeI": [],
     "Nikotest": []
   },
   "statistics": {
-    "total_programs": 0,
-    "paid_programs": 0,
+    "total_programs": 1,
+    "paid_programs": 1,
     "free_programs": 0,
-    "enabled_programs": 0
+    "enabled_programs": 1
   }
 }
