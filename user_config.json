@@ -1,23 +1,20 @@
 {
-  "version": "1.0",
-  "user_config": {
-    "tabs": [
-      "Games",
-      "Tools",
-      "Development",
-      "Roblox",
-      "FantasyLifeI"
-    ],
-    "programs_by_tab": {
-      "Games": [],
-      "Tools": [],
-      "Development": [],
-      "Roblox": [],
-      "FantasyLifeI": []
-    },
+  "version": "2.0",
+  "last_updated": "2025-06-23T13:14:43.619445",
+  "tabs": [
+    "Games",
+    "Roblox",
+    "FantasyLifeI"
+  ],
+  "programs_by_tab": {
+    "Games": [],
+    "Roblox": [],
+    "FantasyLifeI": []
+  },
+  "statistics": {
     "total_programs": 0,
     "paid_programs": 0,
-    "free_programs": 0
-  },
-  "last_updated": "2025-06-23T07:13:28.094715"
+    "free_programs": 0,
+    "enabled_programs": 0
+  }
 }
