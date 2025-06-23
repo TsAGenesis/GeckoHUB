@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-23T15:30:48.586338",
+  "last_updated": "2025-06-23T15:34:47.361176",
   "tabs": [
     "Roblox",
     "FantasyLifeI",
@@ -9,12 +9,25 @@
   "programs_by_tab": {
     "Roblox": [],
     "FantasyLifeI": [],
-    "Rocket League": []
+    "Rocket League": [
+      {
+        "name": "VutriumLoaderV0.1",
+        "download_url": "https://github.com/tntgamer685347/VutriumBot/releases/download/Download/VutriumLoaderV0.1.exe",
+        "tab": "Rocket League",
+        "type": "free",
+        "description": "Join Vutrium DC \nhttps://discord.gg/XZQ7RmMk3S",
+        "icon": "",
+        "enabled": true,
+        "created": "2025-06-23T15:34:25.420235",
+        "file_size": "29",
+        "version": "0.1"
+      }
+    ]
   },
   "statistics": {
-    "total_programs": 0,
+    "total_programs": 1,
     "paid_programs": 0,
-    "free_programs": 0,
-    "enabled_programs": 0
+    "free_programs": 1,
+    "enabled_programs": 1
   }
 }
