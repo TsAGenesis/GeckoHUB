@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-23T14:34:18.031468",
+  "last_updated": "2025-06-23T14:42:49.693810",
   "tabs": [
     "Games",
     "Roblox",
@@ -8,41 +8,15 @@
     "Nikotest"
   ],
   "programs_by_tab": {
-    "Games": [
-      {
-        "name": "FantasylifeI",
-        "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/Geckos_Fantasy_Life_Save_Manager.exe",
-        "tab": "Games",
-        "type": "free",
-        "description": "FLI Savegame Manager",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-23T14:16:55.666245",
-        "file_size": "Unknown",
-        "version": "1.0"
-      }
-    ],
+    "Games": [],
     "Roblox": [],
     "FantasyLifeI": [],
-    "Nikotest": [
-      {
-        "name": "test",
-        "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/Geckos_Fantasy_Life_Save_Manager.exe",
-        "tab": "Nikotest",
-        "type": "paid",
-        "description": "test",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-23T14:34:16.436028",
-        "file_size": "Unknown",
-        "version": "1.0"
-      }
-    ]
+    "Nikotest": []
   },
   "statistics": {
-    "total_programs": 2,
-    "paid_programs": 1,
-    "free_programs": 1,
-    "enabled_programs": 2
+    "total_programs": 0,
+    "paid_programs": 0,
+    "free_programs": 0,
+    "enabled_programs": 0
   }
 }
