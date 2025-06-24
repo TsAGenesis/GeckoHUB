@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-24T16:19:58.148708",
+  "last_updated": "2025-06-24T16:20:37.675955",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -45,7 +45,10 @@
         "enabled": true,
         "created": "2025-06-24T08:55:40.917707",
         "file_size": "8.34 MB",
-        "version": "1.0"
+        "version": "1.0",
+        "preview_image_local": "C:/Users/niko3/Pictures/Screenshot_4.png",
+        "preview_image_filename": "bakkesmodsetup.png",
+        "preview_image": "images/bakkesmodsetup.png"
       }
     ]
   },
