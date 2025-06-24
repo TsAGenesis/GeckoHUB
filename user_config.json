@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-24T15:45:21.379316",
+  "last_updated": "2025-06-24T15:46:00.085301",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -9,15 +9,16 @@
     "FantasyLifeI": [
       {
         "name": "Flism",
+        "description": "Fantasy Life I Savegame Manager , Swap and Save ur Game Data",
         "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/GeckoFlism.exe",
         "tab": "FantasyLifeI",
-        "type": "free",
-        "description": "Fantasy Life I Savegame Manager , Swap and Save ur Game Data",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-24T08:43:38.353597",
+        "version": "1.0",
         "file_size": "43.7",
-        "version": "1.0"
+        "type": "free",
+        "enabled": true,
+        "preview_image_local": "C:/Users/niko3/Downloads/FLISM.png",
+        "preview_image_filename": "flism.png",
+        "preview_image": "images/flism.png"
       }
     ],
     "Rocket League": [
@@ -29,7 +30,10 @@
         "file_size": "29 MB",
         "type": "free",
         "enabled": true,
-        "description": "Join Vutrium DC https://discord.gg/XZQ7RmMk3S\n\nU have to Deactivate antivirus for the Programm to work!"
+        "description": "Join Vutrium DC https://discord.gg/XZQ7RmMk3S\n\nU have to Deactivate antivirus for the Programm to work!",
+        "preview_image_local": "C:/Users/niko3/Downloads/Vutrium.png",
+        "preview_image_filename": "vutriumloaderv0.1.png",
+        "preview_image": "images/vutriumloaderv0.1.png"
       },
       {
         "name": "BakkesModSetup",
