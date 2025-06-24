@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-24T08:44:28.781609",
+  "last_updated": "2025-06-24T08:55:45.526439",
   "tabs": [
     "Roblox",
     "FantasyLifeI",
@@ -32,13 +32,25 @@
         "type": "free",
         "enabled": true,
         "description": "Join Vutrium DC https://discord.gg/XZQ7RmMk3S\n\nU have to Deactivate antivirus for the Programm to work!"
+      },
+      {
+        "name": "BakkesModSetup",
+        "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/BakkesModSetup.exe",
+        "tab": "Rocket League",
+        "type": "free",
+        "description": "BakkesPlugins is a website that offers a variety of plugins for BakkesMod, a mod for Rocket League. You can find plugins for car design, map loading, chat logging, rank display, and more.",
+        "icon": "",
+        "enabled": true,
+        "created": "2025-06-24T08:55:40.917707",
+        "file_size": "8.34 MB",
+        "version": "1.0"
       }
     ]
   },
   "statistics": {
-    "total_programs": 2,
+    "total_programs": 3,
     "paid_programs": 0,
-    "free_programs": 2,
-    "enabled_programs": 2
+    "free_programs": 3,
+    "enabled_programs": 3
   }
 }
