@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-24T15:46:00.085301",
+  "last_updated": "2025-06-24T16:20:37.675955",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -16,7 +16,7 @@
         "file_size": "43.7",
         "type": "free",
         "enabled": true,
-        "preview_image_local": "C:/Users/niko3/Downloads/FLISM.png",
+        "preview_image_local": "C:/Users/niko3/GeckoHUB/images/FLISM.png",
         "preview_image_filename": "flism.png",
         "preview_image": "images/flism.png"
       }
@@ -45,7 +45,10 @@
         "enabled": true,
         "created": "2025-06-24T08:55:40.917707",
         "file_size": "8.34 MB",
-        "version": "1.0"
+        "version": "1.0",
+        "preview_image_local": "C:/Users/niko3/Pictures/Screenshot_4.png",
+        "preview_image_filename": "bakkesmodsetup.png",
+        "preview_image": "images/bakkesmodsetup.png"
       }
     ]
   },
