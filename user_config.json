@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-26T18:34:04.138208",
+  "last_updated": "2025-06-27T17:34:40.582464",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -9,39 +9,41 @@
     "FantasyLifeI": [
       {
         "name": "Flism",
+        "description": "Fantasy Life I Savegame Manager , Swap and Save ur Game Data",
         "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/GeckoFlism.exe",
         "tab": "FantasyLifeI",
-        "type": "free",
-        "description": "Fantasy Life I Savegame Manager , Swap and Save ur Game Data",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-24T08:43:38.353597",
+        "version": "1.0",
         "file_size": "43.7",
-        "version": "1.0"
+        "type": "free",
+        "enabled": true,
+        "preview_image_github_url": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/flism.png",
+        "preview_image": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/flism.png"
       }
     ],
     "Rocket League": [
       {
         "name": "VutriumLoaderV0.1",
+        "description": "Join Vutrium DC https://discord.gg/XZQ7RmMk3S U have to Deactivate antivirus for the Programm to work!",
         "download_url": "https://github.com/tntgamer685347/VutriumBot/releases/download/Download/VutriumLoaderV0.1.exe",
         "tab": "Rocket League",
         "version": "0.1",
         "file_size": "29 MB",
         "type": "free",
         "enabled": true,
-        "description": "Join Vutrium DC https://discord.gg/XZQ7RmMk3S\n\nU have to Deactivate antivirus for the Programm to work!"
+        "preview_image_github_url": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/vutriumloaderv0.1.png",
+        "preview_image": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/vutriumloaderv0.1.png"
       },
       {
         "name": "BakkesModSetup",
+        "description": "BakkesPlugins is a website that offers a variety of plugins for BakkesMod, a mod for Rocket League. You can find plugins for car design, map loading, chat logging, rank display, and more.",
         "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/BakkesModSetup.exe",
         "tab": "Rocket League",
-        "type": "free",
-        "description": "BakkesPlugins is a website that offers a variety of plugins for BakkesMod, a mod for Rocket League. You can find plugins for car design, map loading, chat logging, rank display, and more.",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-24T08:55:40.917707",
+        "version": "1.0",
         "file_size": "8.34 MB",
-        "version": "1.0"
+        "type": "free",
+        "enabled": true,
+        "preview_image_github_url": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/bakkesmodsetup.png",
+        "preview_image": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/bakkesmodsetup.png"
       }
     ]
   },
