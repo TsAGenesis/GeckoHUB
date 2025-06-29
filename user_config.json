@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-29T09:51:26.209343",
+  "last_updated": "2025-06-29T10:33:34.092476",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -45,15 +45,15 @@
       },
       {
         "name": "Geckos Checkpoint Deployer",
+        "description": "Instantly deploy the latest-trained Rocket League bot checkpoints with automatic renaming and training hour display.",
         "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/Geckos.Checkpoint.Deployer.exe",
         "tab": "Rocket League",
-        "type": "free",
-        "description": "Instantly deploy the latest-trained Rocket League bot checkpoints with automatic renaming and training hour display.",
-        "icon": "",
-        "enabled": true,
-        "created": "2025-06-29T09:51:23.078028",
+        "version": "1.0",
         "file_size": "Unknown",
-        "version": "1.0"
+        "type": "free",
+        "enabled": true,
+        "preview_image_github_url": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/GeckosCheckpointDeployer.png",
+        "preview_image": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/GeckosCheckpointDeployer.png"
       }
     ]
   },
