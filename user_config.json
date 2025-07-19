@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-07-19T13:06:18.857963",
+  "last_updated": "2025-07-19T13:12:40.213646",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -59,12 +59,12 @@
       },
       {
         "name": "SimpleNik",
-        "description": "A ML Bot around Dia level A Airmodel helps u Airdribble",
+        "description": "Air and Ground model (Very early Vers. )",
         "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/SimpleNik.exe",
         "tab": "Rocket League",
         "version": "1.0",
-        "file_size": "Unknown",
-        "type": "free",
+        "file_size": "234 MB",
+        "type": "paid",
         "enabled": true,
         "preview_image_github_url": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/SimpleNik.png",
         "preview_image": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/SimpleNik.png"
@@ -73,8 +73,8 @@
   },
   "statistics": {
     "total_programs": 5,
-    "paid_programs": 0,
-    "free_programs": 5,
+    "paid_programs": 1,
+    "free_programs": 4,
     "enabled_programs": 5
   }
 }
