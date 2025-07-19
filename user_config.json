@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2025-06-29T10:34:50.070474",
+  "last_updated": "2025-07-19T13:03:50.504497",
   "tabs": [
     "FantasyLifeI",
     "Rocket League"
@@ -54,13 +54,25 @@
         "enabled": true,
         "preview_image_github_url": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/GeckosCheckpointDeployer.png",
         "preview_image": "https://raw.githubusercontent.com/TsAGenesis/GeckoHUB/main/images/GeckosCheckpointDeployer.png"
+      },
+      {
+        "name": "SimpleNik",
+        "download_url": "https://github.com/TsAGenesis/GechoHubProgramms/releases/download/Games/SimpleNik.exe",
+        "tab": "Rocket League",
+        "type": "free",
+        "description": "A ML Bot around Dia level\nA Airmodel helps u Airdribble",
+        "icon": "",
+        "enabled": true,
+        "created": "2025-07-19T13:03:32.250735",
+        "file_size": "Unknown",
+        "version": "1.0"
       }
     ]
   },
   "statistics": {
-    "total_programs": 4,
+    "total_programs": 5,
     "paid_programs": 0,
-    "free_programs": 4,
-    "enabled_programs": 4
+    "free_programs": 5,
+    "enabled_programs": 5
   }
 }
